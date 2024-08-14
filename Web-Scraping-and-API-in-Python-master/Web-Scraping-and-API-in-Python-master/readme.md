@@ -26,10 +26,4 @@ Python project for integrations with different API and web scraping with Beautif
 * [Youtube](https://www.youtube.com/)
 * [Sound Cloud](https://soundcloud.com/)
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## References
-
-* The challenges are part of [Web Scraping and API in Python course](https://365datascience.com/courses/web-scraping-and-api-fundamentals-in-python/) by 365 Data Science.
