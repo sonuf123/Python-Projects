@@ -26,9 +26,4 @@ Data analysis and Data Visualization of Countries's GDP, Life Expectancy compari
 + Richest Country on a per-person basic
 
 
-## Acknowledgements
-Projects are part of [Data Visualization with Python](https://www.pluralsight.com/courses/data-visualization-with-python-introduction) by YK Sugi
 
-
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
